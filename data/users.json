@@ -1,0 +1,141 @@
+{
+  "users": [
+    {
+      "_id": "68dad22513c4aff138a9cd85",
+      "name": "John Smith",
+      "email": "john.smith@email.com",
+      "age": 32,
+      "city": "New York",
+      "registeredDate": "2024-01-15T00:00:00.000Z",
+      "purchasedProducts": [
+        "68dad1ce13c4aff138a9cd79",
+        "68dad1ce13c4aff138a9cd7c",
+        "68dad1ce13c4aff138a9cd81"
+      ]
+    },
+    {
+      "_id": "68dad22513c4aff138a9cd86",
+      "name": "Sarah Johnson",
+      "email": "sarah.j@email.com",
+      "age": 28,
+      "city": "Los Angeles",
+      "registeredDate": "2024-02-20T00:00:00.000Z",
+      "purchasedProducts": [
+        "68dad1ce13c4aff138a9cd7a",
+        "68dad1ce13c4aff138a9cd7b",
+        "68dad1ce13c4aff138a9cd80",
+        "68dad1ce13c4aff138a9cd83"
+      ]
+    },
+    {
+      "_id": "68dad22513c4aff138a9cd87",
+      "name": "Michael Chen",
+      "email": "m.chen@email.com",
+      "age": 35,
+      "city": "San Francisco",
+      "registeredDate": "2023-11-10T00:00:00.000Z",
+      "purchasedProducts": [
+        "68dad1ce13c4aff138a9cd84",
+        "68dad1ce13c4aff138a9cd7f"
+      ]
+    },
+    {
+      "_id": "68dad22513c4aff138a9cd88",
+      "name": "Emily Davis",
+      "email": "emily.davis@email.com",
+      "age": 24,
+      "city": "Chicago",
+      "registeredDate": "2024-03-05T00:00:00.000Z",
+      "purchasedProducts": [
+        "68dad1ce13c4aff138a9cd7d",
+        "68dad1ce13c4aff138a9cd82",
+        "68dad1ce13c4aff138a9cd7e"
+      ]
+    },
+    {
+      "_id": "68dad22513c4aff138a9cd89",
+      "name": "David Martinez",
+      "email": "d.martinez@email.com",
+      "age": 41,
+      "city": "Houston",
+      "registeredDate": "2023-08-22T00:00:00.000Z",
+      "purchasedProducts": [
+        "68dad1ce13c4aff138a9cd7c",
+        "68dad1ce13c4aff138a9cd83",
+        "68dad1ce13c4aff138a9cd79",
+        "68dad1ce13c4aff138a9cd81",
+        "68dad1ce13c4aff138a9cd7f"
+      ]
+    },
+    {
+      "_id": "68dad22513c4aff138a9cd8a",
+      "name": "Lisa Anderson",
+      "email": "lisa.anderson@email.com",
+      "age": 29,
+      "city": "Seattle",
+      "registeredDate": "2024-01-30T00:00:00.000Z",
+      "purchasedProducts": [
+        "68dad1ce13c4aff138a9cd7b",
+        "68dad1ce13c4aff138a9cd7a"
+      ]
+    },
+    {
+      "_id": "68dad22513c4aff138a9cd8b",
+      "name": "James Wilson",
+      "email": "james.w@email.com",
+      "age": 38,
+      "city": "Boston",
+      "registeredDate": "2023-12-15T00:00:00.000Z",
+      "purchasedProducts": [
+        "68dad1ce13c4aff138a9cd84",
+        "68dad1ce13c4aff138a9cd80",
+        "68dad1ce13c4aff138a9cd7d"
+      ]
+    },
+    {
+      "_id": "68dad22513c4aff138a9cd8c",
+      "name": "Maria Garcia",
+      "email": "maria.garcia@email.com",
+      "age": 26,
+      "city": "Miami",
+      "registeredDate": "2024-04-12T00:00:00.000Z",
+      "purchasedProducts": [
+        "68dad1ce13c4aff138a9cd7e",
+        "68dad1ce13c4aff138a9cd82"
+      ]
+    },
+    {
+      "_id": "68dad22513c4aff138a9cd8d",
+      "name": "Robert Brown",
+      "email": "robert.b@email.com",
+      "age": 45,
+      "city": "Denver",
+      "registeredDate": "2023-09-18T00:00:00.000Z",
+      "purchasedProducts": [
+        "68dad1ce13c4aff138a9cd79",
+        "68dad1ce13c4aff138a9cd7c",
+        "68dad1ce13c4aff138a9cd7f",
+        "68dad1ce13c4aff138a9cd84"
+      ]
+    },
+    {
+      "_id": "68dad22513c4aff138a9cd8e",
+      "name": "Jennifer Taylor",
+      "email": "jennifer.t@email.com",
+      "age": 31,
+      "city": "Austin",
+      "registeredDate": "2024-02-28T00:00:00.000Z",
+      "purchasedProducts": [
+        "68dad1ce13c4aff138a9cd7b",
+        "68dad1ce13c4aff138a9cd7d",
+        "68dad1ce13c4aff138a9cd80"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalUsers": 10,
+    "exportDate": "2025-10-05T15:53:00.000Z",
+    "source": "MongoDB AIDEMO database",
+    "extractedUsing": "MCP MongoDB Server"
+  }
+}
